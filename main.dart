@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     color: Colors.white38,
-                    image: DecorationImage(image: AssetImage('asset/images/image1.jpg'))
+                   // image: DecorationImage(image: AssetImage('asset/images/image1.jpg'))
                 ),
                 child: Stack(
                   children: const <Widget>[
